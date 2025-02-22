@@ -1,2 +1,2 @@
 # C-Learning
-Learning C++ in case I forgot how to use it
+C/C++ Repository showcasing my skills in the language.
